@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yinlonghui256.github.io/sitemap.xml
