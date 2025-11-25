@@ -13,6 +13,3 @@ vendor
 .idea
 .venv
 
-# Windows-specific development scripts (UTF-8 path workarounds)
-start-jekyll.ps1
-format-before-commit.ps1
