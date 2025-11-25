@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: longhui_yin_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>6F, FIT Building</p>
@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a PhD canditate at [Institute for Interdisciplinary Information Science](https://iiis.tsinghua.edu.cn/en/),
+where I am very fortunate to be advised by Prof. Andrew Yao.
+Prior to that, I obtained my bachelor's degree from [Institute for Interdisciplinary Information Science](https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm)(also known as "Yao Class"), Tsinghua University, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm).
+
+I am currently interested in conbinatorical graph algorithms, data structure design problems.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
