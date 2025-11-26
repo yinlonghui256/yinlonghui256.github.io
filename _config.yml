@@ -6,8 +6,9 @@ title: Longhui Yin # the website title (if blank, full name will be used instead
 first_name: Longhui
 middle_name:
 last_name: Yin
-contact_note: >
-  Why suffix 256? (Because yinlonghui@gmail.com has been registered by someone else.) Because 256 equals to 2^8, the number of bit patterns of a byte. Very easy to remember for computer scientists! :)
+# contact_note: >
+bottom_note: >
+  Why suffix 256? Because 256 equals to the number of bit patterns of a byte. Very easy to remember for computer scientists! :)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website! I am Longhui Yin, a PhD candidate on theoretical computer science.
   Here you can find information about my research, publications, and projects.
@@ -15,7 +16,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -95,7 +95,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true

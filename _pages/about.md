@@ -28,13 +28,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD canditate at [Institute for Interdisciplinary Information Science](https://iiis.tsinghua.edu.cn/en/), where I am very fortunate to be advised by Prof. Andrew Yao. Prior to that, I obtained my bachelor's degree from Institute for Interdisciplinary Information Science (also known as ["Yao Class"](https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm)), Tsinghua University, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm). I am currently interested in conbinatorical graph algorithms, data structure design problems.
+I am a PhD student at [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, where I am very fortunate to be advised by Prof. [Andrew Yao](https://iiis.tsinghua.edu.cn/en/People/Faculty/yaoqizhi.htm).
 
-<br><br><br>
+Prior to that, I obtained my bachelor's degree from IIIS, Tsinghua University, also known as [Yao Class](https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm), instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm).
+
+I am currently interested in conbinatorical graph algorithms and data structure design problems.
 
 <small>
-6F, FIT Building  
-Tsinghua University  
-Beijing, China  
-[ylh21@mails.tsinghua.edu.cn](mailto:ylh21@mails.tsinghua.edu.cn)
+6F, FIT Building, Tsinghua University, Beijing, China  
+ylh21\[AT\]mails.tsinghua.edu.cn
 </small>

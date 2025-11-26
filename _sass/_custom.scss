@@ -1,0 +1,47 @@
+.profile-card {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-card img {
+  display: block;
+}
+
+.social-under-avatar {
+  margin-top: 0; /* 头像和按钮之间不额外加间距 */
+}
+
+.social-under-avatar .contact-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+  justify-content: center;
+}
+
+.social-under-avatar .contact-icons a {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.social-under-avatar .contact-icons i {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.contact-note-bottom {
+  margin-top: 015rem; /* 原 1.5rem，压缩与正文的距离 */
+  line-height: 0.9;
+}
+
+.bottom-note {
+  margin-top: 0.25rem; /* 原 0.5rem，进一步贴近 contact_note */
+  font-size: 0.9rem;
+  line-height: 0.9;
+  color: #666;
+}
+
+small {
+  font-size: 0.75rem;
+}
