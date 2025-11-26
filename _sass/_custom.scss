@@ -6,6 +6,8 @@
 
 .profile-card img {
   display: block;
+  /* If a fixed width is provided via front matter (profile.image_width), figure include sets width/max-width.
+     Ensure icons container matches the image width when fixed. */
 }
 
 .social-under-avatar {
@@ -19,10 +21,22 @@
   justify-content: center;
 }
 
+/* Match icon row width to avatar when a fixed width is set (fallback auto) */
+.profile-card .social-under-avatar {
+  width: 100%;
+}
+.profile-card[style] .social-under-avatar {
+  width: 100%;
+}
+
 .social-under-avatar .contact-icons a {
   margin: 0;
   padding: 0;
   line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  width: 1.6rem;
+  height: 1.6rem;
 }
 
 .social-under-avatar .contact-icons i {
